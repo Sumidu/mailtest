@@ -1,0 +1,5 @@
+default:
+  imap: ""
+  username: ""
+  pw: ""
+  inbox: "INBOX"
